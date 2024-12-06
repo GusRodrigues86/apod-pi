@@ -1,1 +1,1 @@
-from api.models.apod_model import Apod
+from .apod_model import Apod
